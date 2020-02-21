@@ -1,8 +1,8 @@
-###To run the code, use the commandline and provide one of the pgm files.
+### To run the code, use the commandline and provide one of the pgm files.
 
 'python cannyEdgeDetectionAlgo.py lena.pgm'
 
-###How to convert PPM to PGM
+### How to convert PPM to PGM
 
     pgmVersion = filename.replace('.ppm', '.pgm')
     newPgmArray = []
